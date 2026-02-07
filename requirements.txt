@@ -1,4 +1,6 @@
 aiohttp 
 rgbprint
 requests
+
 pillow
+pip install -r requirements.txt
